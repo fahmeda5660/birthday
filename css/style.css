@@ -1,0 +1,18 @@
+
+
+.typed-part {
+    color: rgb(231, 12, 77);
+    font-weight: 800;
+    font-size: 26px;
+}
+
+.counter-up-part {
+    color: rgb(255, 255, 255);
+}
+.card .h1, h1 {
+    font-size: 1.5rem;
+}
+img{
+    height: 300px;
+}
+/* *********************************counter-down-part********************************* */
